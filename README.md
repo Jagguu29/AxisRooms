@@ -1,6 +1,6 @@
 # AxisRooms
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.9.
+clone this repository to local machine  and run `npm install` 
 
 ## Development server
 
